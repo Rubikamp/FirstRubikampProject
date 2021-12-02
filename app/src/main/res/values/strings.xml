@@ -10,4 +10,11 @@
     <string name="student_7">Alireza MahdiZade</string>
     <string name="login">LOGIN</string>
     <string name="rubikamp_team">Rubikamp Team</string>
+    <string name="enter_your_height">Enter your Height</string>
+    <string name="enter_your_weight">Enter your weight</string>
+    <string name="bmi_counter">BMI Counter</string>
+    <string name="calculate">Calculate BMI</string>
+    <string name="even_and_odd">Even and Odd</string>
+    <string name="enter_your_number">Enter your Number</string>
+    <string name="result">Result</string>
 </resources>
